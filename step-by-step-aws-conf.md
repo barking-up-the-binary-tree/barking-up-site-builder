@@ -2,7 +2,8 @@
 
 ## Resources
 
-|| Name || Description || Type ||
+| Name |Description | Type |
+| -----|------------|------|
 |static-publisher| static-publisher | Role |
 |twitter-publisher|twitter-publisher| Role|
 |img-metadata-creator | img-metadata-creator | Role |
